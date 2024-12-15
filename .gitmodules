@@ -1,0 +1,3 @@
+[submodule "exams"]
+	path = exams
+	url = https://github.com/wq24/exams.git
