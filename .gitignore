@@ -1,1 +1,54 @@
-target
+# 编译生成的文件
+
+*.o
+
+*.obj
+
+*.a
+
+*.so
+
+*.dll
+
+*.exe
+
+# 临时文件
+
+*.tmp
+
+*.swp
+
+*.log
+
+# IDE和编辑器生成的文件
+.vscode/
+
+*.suo
+
+*.ncb
+
+*.opendb
+
+*.sln
+
+*.docstates
+
+*.user
+
+# 调试和测试生成的文件
+debug/
+release/
+
+# 依赖库和第三方插件（如果通过其他方式管理，如CMake或vcpkg）
+# third_party/
+# lib/
+
+# 备份文件
+
+*.bak
+
+# 其他不需要版本控制的文件或目录
+
+*.iml
+
+*.idea/
